@@ -28,12 +28,12 @@ SLOT NO : T1-I5
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
-
-Thus to analyse given data using coeffificient of correlation and regression line is successful
-
-
 # Output
 
 <img width="846" height="714" alt="560394102-2cd6b46c-9450-4b2c-ad23-5ef751ffe19c" src="https://github.com/user-attachments/assets/196a9138-0656-4dc5-9e91-d46a91a474ce" />
 
+
+
+# Result
+
+Thus to analyse given data using coeffificient of correlation and regression line is successful
